@@ -9,8 +9,10 @@ Truffle project to deploy Ethereum Name Service smart contracts on a private Blo
 
 ## Run private Ethereum Blockchain
 
-`ganache-cli --host 172.16.2.131`
+> ganache-cli --host 172.16.2.131
 
 ## Deploy ENS contracts
 
-`truffle migrate`
+> npm install
+
+> truffle migrate
